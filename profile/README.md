@@ -16,7 +16,7 @@
   </p>
   <p align="right">
     <h3>Ellie Programing Language</h3>
-    <p>A scripting language that runs on embedded and sandboxed environments.</p>
+    <p>Ellie is a type-safe programing language that runs on embedded and sandboxed environments.</p>
   </p>
 </p>
 
