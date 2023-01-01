@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" src="https://behemehal.net/assets/img/bBrand/main.png" alt="blogo">
+  <img width="150" src="https://behemehal.org/img/bBrand/main.min.png" alt="blogo">
 </p>
 <br>
 <h1 align="center">Behemehal</h1>
